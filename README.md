@@ -15,11 +15,15 @@
 # Membuat Program OOP Sederhana (mobil.php)
 Program berisi deklarasi class Mobil, atribut (warna, merk, harga) dan method (gantiWarna, tampilWarna) serta pemanggilannya.
 
+![WhatsApp Image 2025-12-05 at 01 50 15](https://github.com/user-attachments/assets/045a9de3-adfa-4912-8e2d-dc998b7301ff)
+
 # Membuat Class Library Form (form.php)
 Class ini digunakan untuk membuat input form secara dinamis menggunakan konsep modularisasi.
 
 # Implementasi Form (form_input.php)
 Pemanggilan class Form dan menampilkan form input mahasiswa.
+
+![WhatsApp Image 2025-12-05 at 01 49 24](https://github.com/user-attachments/assets/09b6dcb2-c9bd-4c65-b539-dc6d4c624e71)
 
 # Membuat Konfigurasi Database (config.php)
        <?php
